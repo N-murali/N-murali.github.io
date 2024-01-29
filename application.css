@@ -1,0 +1,32 @@
+#content-form
+{
+    
+    justify-content: center;
+
+
+}
+#details-div
+{
+    display: none;
+}
+#actual_form
+{
+    border:1px solid Black;
+
+}
+label
+{
+   font-weight: bold;
+
+}
+p{
+    font-weight: bold;
+}
+h4
+{
+    background-color:rgb(244, 250, 215);
+
+}
+div{
+    margin-left: 10px;
+}
